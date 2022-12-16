@@ -1,6 +1,6 @@
-# mod-terraform-aws-lambda
+# mod-terraform-aws-s3-global
 
-Terraform module to create AWS lambda function with optional permissions.
+Terraform module to change s3 global configuration.
 
 ## Variables
 
